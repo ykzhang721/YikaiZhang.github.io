@@ -11,11 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D  in School of Computer Science <span style="float: right;">2022 - 2027 (expected)</span> <br>Fudan University  <br>
+<!-- * M.S. in Jekyll, GitHub University, 2014 -->
+* B.S. in School of Computer Science and Engineering <span style="float: right;">2018 - 2022</span> <br>University of Electronic Science and Technology of China, 
 
-Work experience
+AWARDS
+======
+* First Prize of the Scholarship at Fudan University, 2023
+* Outstanding Undergraduates Graduates of Sichuan, 2022
+
+Academic Services
+======
+* Serving as a Reviewer of Neurips (2024)
+
+
+[Download my CV](/assets/cv.pdf)
+
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -61,4 +73,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
