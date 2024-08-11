@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D  in School of Computer Science <span style="float: right;">2022 - 2027 (expected)</span> <br>Fudan University  <br>
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
-* B.S. in School of Computer Science and Engineering <span style="float: right;">2018 - 2022</span> <br>University of Electronic Science and Technology of China, 
+* B.S. in School of Computer Science and Engineering <span style="float: right;">2018 - 2022</span> <br>University of Electronic Science and Technology of China 
 
 AWARDS
 ======
